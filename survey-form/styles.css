@@ -1,0 +1,30 @@
+body {
+    background-image: url(nissan.jpg);
+    color: bisque;
+   
+}
+
+.lorem {
+    color: rgb(179, 242, 85);
+    margin-bottom: 50px;
+    margin-top: 40px;
+    margin-left: 35%;
+    
+
+    
+
+}
+
+.ipsum {
+    color: brown;
+    margin-left: 37%;
+    margin-bottom: 25px;
+    margin-top: -1em;
+    font-size: smaller;
+}
+.1div {
+    border-style: solid;
+    border-bottom-style: dotted;
+    box-shadow: none;
+}
+
