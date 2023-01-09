@@ -40,3 +40,10 @@ p {
 .right {
     float: right;
   }
+
+  .lg,.md {
+    background-color: black;
+  }
+  .lg {
+    height: 10px;
+  }
